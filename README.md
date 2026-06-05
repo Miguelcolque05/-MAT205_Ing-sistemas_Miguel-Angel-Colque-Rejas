@@ -10,6 +10,7 @@ py -m pip install customtkinter matplotlib seaborn
 *Flujo de Ejecución y Uso
 
 Paso 1: Generación del Dataset 
+
 py generar_data.py
 
 Esto creará el archivo servidores_telemetria.csv en la raíz del proyecto.
